@@ -17,7 +17,7 @@ Automa 是一款强大的浏览器自动化工具，它允许用户通过可视�
 
 ### 安装 Automa
 
-确保你的浏览器（如 Chrome、Firefox 等）已安装 Automa 插件。如果未安装，请前往浏览器应用商店搜索并安装。
+确保你的浏览器（如 Chrome、Firefox 等）已安装 Automa 插件。如果未安装，请前往浏览器应用商店搜索并安装。（官网：https://www.automa.site/）(github:https://github.com/AutomaApp/automa)
 
 ### 下载脚本
 
